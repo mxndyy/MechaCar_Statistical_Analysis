@@ -81,5 +81,21 @@ The following three t-tests were used to determine if the PSI across each manufa
 
 
 # Deliverable 4
-## Linear Regression to Predict MPG
-### Results
+## Study Design: MechaCar vs Competition
+
+### Metrics 
+
+*  Safety Feature Rating
+*  Current Price
+*  City MPG
+*  Highway MPG
+
+### Hypothesis
+
+* Null Hypothesis: MechaCar is not significantly different than competitors
+* Alternative Hypothesis: The overall vehicle price of MechaCar is significantly different than competitors.
+
+### Statistical Tests
+
+* A multiple linear regression would be used to determine the factors that have the highest correlation in each metric category. 
+* Summary t-tests of each car manufacture in each category and displayed on a box plot will allow us to analyze the variance in each category. 
